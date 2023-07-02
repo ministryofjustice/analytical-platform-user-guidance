@@ -5,12 +5,12 @@ host: https://ministryofjustice.github.io/template-documentation-site
 
 # Header-related options
 show_govuk_logo: true
-service_name: Template Documentation Site
+service_name: analytical-platform-user-guidance
 service_link: /
 
 # Links to show on right-hand-side of header
 header_links:
-  GitHub: https://github.com/ministryofjustice/template-documentation-site
+  GitHub: https://github.com/ministryofjustice/analytical-platform-user-guidance
 
 # Enables search functionality. This indexes pages only and is not recommended for single-page sites.
 enable_search: true
@@ -30,5 +30,5 @@ max_toc_heading_level: 3
 prevent_indexing: true
 
 show_contribution_banner: true
-github_repo: ministryofjustice/template-documentation-site
+github_repo: ministryofjustice/analytical-platform-user-guidance
 github_branch: main
